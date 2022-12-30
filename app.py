@@ -19,7 +19,7 @@ from Answer.pymu_extract import PyMuExtract
 
 import nltk
 try:
-    nltk.find('stopwords')
+    nltk.find('corpora/stopwords')
 except LookupError:
     nltk.download('stopwords')
 
