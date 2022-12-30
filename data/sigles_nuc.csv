@@ -1,0 +1,333 @@
+sigle,def_fr,def_ang
+AAD,Ensemble motopompe alimentaire d'arrêt et de démarrage,Start-Up And Shutdown Feedwater System
+ABP,Poste d'eau basse pression et réchauffeurs,Low Pressure Feedwater Heater System
+ADG,Alimentation et dégazage (bâche et dégazeur),Deaerator
+AHP,"Poste d'eau haute pression, moyenne pression et réchauffeurs",High Pressure Feedwater Heater System
+APA,Ensemble motopompe alimentaire (y compris graissage),Main Feedwater Pump
+APG,Purge générateur de vapeur (chaudière),Steam Generator Blowdown System
+ARE,Alimentation normale des générateurs de vapeur,Main Feedwater Flow Control System
+ASG,Alimentation auxiliaire de secours des générateurs de vapeur (GV),Emergency Feedwater System
+ATD,Traitement de l’eau au démarrage,Feedwater Treatment At Start-Up
+CET,Etanchéité labyrinthes turbine ,Turbine Gland Sealing System
+CEX,Circuit d'extraction eau condenseur,Condensate Extraction System & Condensers
+CFI,Filtration eau brute,Circulating Water Filtration System
+CPA,Protection cathodique,Cathodic Protection System
+CRF,"Circulation eau (graissage, filtration et isolement)",Circulating Water System
+CTA,"Nettoyage du faisceau condenseur (taprogge, technos)",Circulating Water Treatment System
+CTE,Traitement eau de circulation,Condenser Vacuum
+CTF,Vaccination acide des réfrigérants,Turbine Gland Sealing System
+CVF,Réfrigérants atmosphériques - Ventilation forcée,Condensate Extraction System & Condensers
+CVI,Vide condenseur,Circulating Water Filtration System
+CVP,Réfrigération des purges des réfrigérants atmosphériques,Cooling towers bleed refrigeration
+DA *,ASCENSEURS ET MONTE-CHARGES,Lifts - Goods And Personnel
+DAB,Ascenseurs et monte-charges du pôle opérationnel d'exploitation,Lifts - Operational Service Centre
+DAD,Ascenseurs et monte-charges du bâtiment diesel,Lifts – Diesel Building
+DAF,Ascenseurs et monte-charges du bâtiment électrique non classé,Lifts - Non-Classified Electrical Building
+DAK,Ascenseurs et monte-charges du bâtiment combustible,Lifts - Fuel Building
+DAL,Ascenseurs et monte-charges du bâtiment électrique,Lifts - Electrical Building 
+DAM,Ascenseurs et monte-charges de la salle des machines,Lifts - Turbine Hall
+DAN,Ascenseurs et monte-charges du bâtiment des auxiliaires nucléaires,Lifts - Nuclear Auxiliary Building
+DAP,Ascenseurs et monte-charges de la station de pompage ,Lifts - Cooling Water Pump House
+DAQ,Ascenseurs et monte-charges du bâtiment de traitement des effluents,Lifts - Effluent Treatment Building
+DAR,Ascenseurs et monte-charges du bâtiment réacteur ,Lifts - Reactor Building
+DAW,Ascenseurs et monte-charges de la tour d’accès,Lifts - Access Tower
+DC *,VENTILATION - CONDITIONNEMENT,VENTILATION AND AIR CONDITIONING
+DCB,Conditionnement du pôle opérationnel d'exploitation,HVAC - Operational Service Centre
+DCL,Conditionnement salle de commande et locaux électriques,HVAC - Control Room & Associated Electrical Rooms
+DD .,DISPOSITIFS ET MATERIELS MOBILES,DISPOSITIFS ET MATERIELS MOBILES (1)
+DDA,Dispositif et matériel mobile pour la FARN (Force d’Action Rapide Nucléaire),Dispositif et matériel mobile pour la FARN (Force d’Action Rapide Nucléaire) (1)
+DE *,EAU GLACEE (PRODUCTION ET DISTRIBUTION),Chilled Water System (Production And Distribution)
+DEB,Production d'eau glacée du pôle opérationnel d'exploitation,Chilled Water - Operational Service Centre
+DEL,Production d'eau glacée secourue du bâtiment électrique,Chilled Water - Electrical Building (backed-up)
+DEQ,Production d'eau glacée du bâtiment de traitement des effluents,Chilled Water - Effluent Treatment Building
+DER,Production d'eau glacée du bâtiment réacteur,Chilled Water - Reactor Building
+DF *,DESENFUMAGE (SI INDEPENDANT DE LA VENTILATION),SMOKE EXTRACTION + Pressurisation
+DFB,Désenfumage du pôle opérationnel d'exploitation,Smoke Extraction - Operational Service Centre
+DFL,Désenfumage bâtiment électrique,Smoke Extraction - Electrical Building + HK HL HNX HW
+DM *,APPAREILS ET ENGINS DE MANUTENTION,HANDLING EQUIPMENT
+DMB,Appareils et engins de manutention du pôle opérationnel d'exploitation ,Handling Equipment - Operational Service Centre
+DMD,Appareils et engins de manutention du bâtiment diesel ,Handling Equipment - Diesel Building 
+DMF,Appareils et engins de manutention bâtiment électrique non classé ,Handling Equipment - Nuclear Auxiliary Building
+DMG,Appareils et engins de manutention des galeries,Handling Equipment - Galleries
+DMH,Appareils et engins de manutention des bâtiments d’entreposage du combustible usé et des déchets,Handling Equipment – Fuel or waste management building
+DMK,Appareils et engins de manutention du bâtiment combustible ,Handling Equipment - Fuel Building
+DML,Appareils et engins de manutention du bâtiment des auxiliaires de sauvegarde  et du bâtiment électrique ,Handling Equipment - Safeguard Auxiliary/Electrical Building
+DMM,Appareils et engins de manutention de la salle des machines ,Handling Equipment - Turbine Hall
+DMN,Appareils et engins de manutention du bâtiment des auxiliaires nucléaires ,Handling Equipment - Nuclear Auxiliary Building
+DMP,Appareils et engins de manutention de la station de pompage ,Handling Equipment - Cooling Water Pump House
+DMQ,Appare du ils et engins de manutention du bâtiment de traitement des effluents ,Handling Equipment - Waste Treatment Buildings 
+DMR,Appareils et engins de manutention du bâtiment réacteur ,Handling Equipment - Reactor Building 
+DMS,Appareils et engins de manutention de site,Handling Equipment - Site Buildings
+DMW,Appareils et engins de manutention de la tour d'accès,Handling Equipment - Access Tower
+DN *,ECLAIRAGE NORMAL DU SITE BATIMENTS ET SURFACES OUVERTES,LIGHTING
+DNB,Eclairage normal du pôle opérationnel d'exploitation ,Lighting - Operational Service Centre 
+DND,Eclairage normal du bâtiment diesel,Lighting - Diesel Building 
+DNF,Eclairage normal du bâtiment électrique non classé,Lighting - Non-Classified Electrical Building
+DNG,Eclairage normal des galeries,Lighting - Galleries
+DNK,Eclairage normal du bâtiment combustible ,Lighting - Fuel Building 
+DNL,Eclairage normal du bâtiment des auxiliaires de sauvegarde et du bâtiment électrique ,Lighting - Safeguard Auxiliary / Electrical Building
+DNM,Eclairage normal de la salle des machines ,Lighting - Turbine Hall
+DNN,Eclairage normal du bâtiment des auxiliaires nucléaires ,Lighting - Nuclear Auxiliary Building 
+DNP,Eclairage normal de la station de pompage ,Lighting - Cooling Water Pump House
+DNQ,Eclairage normal des bâtiments du bâtiment de traitement des effluents ,Lighting - Waste Treatment Buildings 
+DNR,Eclairage normal du bâtiment réacteur ,Lighting - Reactor Building
+DNS,Eclairage normal des bâtiments de site,Lighting - Site Buildings
+DNW,Eclairage normal de la tour d'accès,Lighting - Access Tower
+DNX,Distribution des prises de courant,Small Power System
+DNY,Eclairage normal du bâtiment de déminéralisation,Lighting - Water Treatment Building 
+DPS,Poste Regroupement Secours PUI,Poste Regroupement Secours PUI (1)
+DS *,ECLAIRAGE DE SECOURS DU SITE BATIMENTS ET SURFACES OUVERTES,EMERGENCY LIGHTING
+DSB,Eclairage de secours du pôle opérationnel d'exploitation ,Emergency Lighting - Operational Service Centre 
+DSD,Eclairage de secours du bâtiment diesel ,Emergency Lighting - Diesel Building 
+DSF,Eclairage de secours du bâtiment électrique non classé,Emergency Lighting - Non-Classified Electrical Building
+DSG,Eclairage de secours des galeries,Emergency Lighting - Galleries
+DSI,Détection et surveillance d'intrusion,Site Security System (intrusion detection and surveillance system)
+DSK,Eclairage de secours du bâtiment combustible,Emergency Lighting - Fuel Building 
+DSL,Eclairage de secours du bâtiment des auxiliaires de sauvegarde et du bâtiment électrique ,Emergency Lighting - Backup Auxiliary Generator Building and Electrical Building 
+DSM,Eclairage de secours de la salle des machines,Emergency Lighting - Turbine Hall
+DSN,Eclairage de secours du bâtiment des auxiliaires nucléaires ,Emergency Lighting - Nuclear Auxiliary Building 
+DSP,Eclairage de secours de la station de pompage ,Emergency Lighting - Cooling Water Pump House
+DSQ,Eclairage de secours des bâtiments du bâtiment de traitement des effluents,Emergency Lighting - Waste Treatment Buildings 
+DSR,Eclairage de secours des bâtiments du bâtiment réacteur,Emergency Lighting - Reactor Building
+DSS,Eclairage de secours des bâtiments de site,Emergency Lighting - Site Buildings
+DSW,Eclairage de secours de la tour d’accès,Emergency Lighting - Access Tower
+DSY,Eclairage de secours du bâtiment de déminéralisation,Emergency Lighting - Water Treatment Building 
+DT .,TELEPHONE TRANSMISSION ET TELETRANSMISSION,"TELEPHONE, TRANSMISSION AND TELETRANSMISSION"
+DTE,Transport pneumatique des échantillons,Pneumatic Active Sample Transport
+DTF,Réseau informatique (bureautique),Corporate Computer Network
+DTL,Distribution de télévision en circuit fermé,Plant CCTV Distribution System
+DTV,Transmission - téléphone - recherche de personnes - distribution de l'heure,Communication Systems (Data – Telephone – Paging – Time) 
+DV *,VENTILATION - CONDITIONNEMENT (NON CONTAMINABLE),HVAC - Non Active
+DVB,Ventilation et conditionnement des locaux administratifs,HVAC - Operational Service Centre 
+DVD,Ventilation et chauffage locaux diesels,HVAC - Diesel Building 
+DVE,Ventilation et chauffage des locaux des vannes VVP et ARE,HVAC - VVP and ARE Valve Rooms
+DVF,Ventilation locaux électriques du bâtiment électrique non classé,HVAC - Non-Classified Electrical Building
+DVJ,Ventilation du bâtiment contenant les systèmes incendie de la source froide,HVAC - Fire Fighting Pump House
+DVL,Ventilation locaux électriques du bâtiment électrique,HVAC - Classified Electrical Building
+DVM,Ventilation et chauffage de la salle des machines,HVAC - Turbine Hall
+DVN,Ventilation et chauffage des locaux non contaminables du bâtiment des auxiliaires nucléaires,HVAC - Nuclear Auxiliary Building
+DVO,Ventilation du bâtiment contenant la réserve d’eau ultime de la source froide,HVAC - Towns Water Reservoir Diesel-driven Pumps
+DVP,Ventilation de la station de pompage,HVAC - Cooling Water Pump House
+DVR,Ventilation de l’ouvrage de rejet,HVAC – Outfall Building
+DVT,Conditionnement des locaux divers de site,HVAC - Miscellaneous Rooms
+DVW,Ventilation des locaux non contaminables de la tour d'accès,HVAC - Access Tower
+DVY,Ventilation et conditionnement du bâtiment de déminéralisation,HVAC - Water Treatment Building
+DW *,VENTILATION - DESENFUMAGE / CONDITIONNEMENT,ACTIVE HVAC
+DWA,Ventilation du bâtiment de la bâche PTR,Active HVAC - PTR Tank Building
+DWB,Ventilation des locaux contaminables du pôle opérationnel d'exploitation ,Active HVAC - Operational Service Centre
+DWK,Ventilation du bâtiment combustible,Active HVAC - Fuel Building
+DWL,Ventilation du bâtiment des auxiliaires de sauvegarde et du bâtiment électrique,Active HVAC - Safeguard Building / Electrical Building
+DWN,Ventilation du bâtiment des auxiliaires nucléaires,Active HVAC - Nuclear Auxiliary Building
+DWQ,Ventilation du bâtiment de traitement des effluents ,Active HVAC - Waste Treatment Buildings
+DWU,Ventilation du centre administratif,Active HVAC - Auxiliary Administration Centre 
+DWW,Ventilation des locaux contaminables de la tour d'accès,Active HVAC - Access Tower
+DX *,DISTRIBUTION PRISES DE COURANT ,Power outlet distribution
+EAU,Instrumentation de l'enceinte (auscultation),Containment Instrumentation System (Monitoring Equipment)
+EBA,Balayage du bâtiment réacteur,Containment Purging System
+EDE,Mise en dépression de l'espace entre enceinte,HVAC - Reactor Building Interspace
+ENC,Noyage du corium,Corium Flooding System
+EPP,"Etanchéité et contrôle des fuites de l'enceinte (sas, traversées, tampons...)",Containment Leakage Rate Monitoring and Testing
+ETY,Maîtrise du taux H2 dans l'enceinte,Hydrogen Recombination System
+EVF,Filtration interne,Containment Filtration System
+EVR,Ventilation continue bâtiment réacteur,Active HVAC – Containment
+EVU,Evacuation ultime de chaleur du bâtiment réacteur,Containment Heat Removal System
+FA .,Force d’Action Rapide Nucléaire (FARN),Force d’Action Rapide Nucléaire (FARN) (1)
+FAL,FARN - Moyens Locaux de Crise,FARN - Moyens Locaux de Crise (1)
+FAR,FARN - Moyens Régionaux de Crise,FARN - Moyens Régionaux de Crise (1)
+FAN,FARN - Moyens Nationaux de Crise,FARN - Moyens Nationaux de Crise (1)
+FMN,FARN - Matériel National,FARN - Matériel National (1)
+FMR,FARN - Matériel Régional,FARN - Matériel Régional (1)
+GCA,Conservation de la turbine à l'arrêt,Turbine Outage Anti Condensation & Preservation by Dry Air Circulation
+GCT,Contournement turbine condenseur,Main Steam Bypass System
+GEA,Transformateur auxiliaire,Auxiliary Transformer
+GEV,Evacuation énergie (transformateur soutirage inclus),Grid Interface System
+GEX,Excitation et régulation alternateur,Generator Excitation System
+GFR,Fluide de régulation turbine,Turbine Control Fluid System
+GGR,Graissage - soulèvement – virage GTA,"Turbine Lubrication, Jacking And Baring System"
+GHE,Huile d'étanchéité alternateur,Generator Seal Oil System
+GME,Eléments mesure turbine,Turbine Supervisory Equipment
+GPA,Protection alternateur et évacuation d'énergie,Generator And Transformer Protection System
+GPV,Circuits principaux de vapeur turbine et purges,Turbine - Main Steam and Drains
+GRE,Réglage et contrôle turbine,Turbine Governor System
+GRH,Réfrigération de l'alternateur (air ou hydrogène),Generator Hydrogen Coolers
+GRV,Remplissage - vidange - appoint H2,Generator Hydrogen Supply System 
+GSE,Sécurités turbine (protections),Turbine Protection System
+GSS,Sécheurs surchauffeurs,Moisture Separator Reheater 
+GST,Eau stator,Stator Cooling Water System
+GSY,Synchronisation – Couplage ,Grid Synchronization System
+GTH,Traitement d'huile,Turbine Lube Oil Treatment System
+GTR,Téléréglage - télémesures – comptage,Turbine Generator Remote Control System
+JA .,PRODUCTION EAU D'INCENDIE,FIRE-FIGHTING WATER SUPPLY
+JAC,Production eau incendie classée,Fire Fighting Water Supply System
+JAN,Production eau incendie non classée,Non-Classified Fire-Fighting Water Supply System
+JD .,DETECTION INCENDIE,FIRE DETECTION SYSTEM
+JDT,Détection incendie,Fire Detection System
+JG *,PROTECTION INCENDIE PAR GAZ INERTE,INERT GAS FIRE SUPPRESSION SYSTEM
+JGF,Gaz inerte BLNC,Inert gas - Non-Classified Electrical Building
+JP *,PROTECTION INCENDIE ET DISTRIBUTION EAU INCENDIE,Fire-Fighting water
+JPB,Distribution eau incendie du pôle opérationnel d'exploitation,Fire-Fighting Water System - Operational Service Centre
+JPD,Protection et distribution eau incendie îlot conventionnel,Fire-Fighting Water System - Conventional Island
+JPH,Protection et distribution eau incendie cuves à huile Salle des Machines,Fire-Fighting Water System - Turbine Lube Oil Tank
+JPI,Protection et distribution eau incendie îlot nucléaire,Fire-Fighting Water System - Nuclear Island
+JPO,Réserve et distribution eau incendie de site,Fire-Fighting Water System - Site
+JPS,Protection et distribution eau incendie de site,Fire-Fighting Water System - Site Protection
+JPT,Protection et distribution eau incendie des transformateurs,Fire-Fighting Water System - Transformers
+JPV,Protection et distribution eau incendie Diesels,Fire-Fighting Water System - Diesel Generators
+KA .,AIDE A L'EXPLOITATION (CONDUITE ET MAINTENANCE),OPERATING ASSISTANCE SYSTEM (OPERATION AND MAINTENANCE)
+KAC,Aide à la consignation,Permit Management System
+KAE,Informations élaborées pour la conduite,Process Display and Control System
+KC .,MATERIEL DE CONTROLE COMMANDE (LOGIQUE ET ANALOGIQUE),INSTRUMENTATION & CONTROL EQUIPMENT
+KCC,Télétransmission avec CNC (Centres Nationaux de Crise),Data Transmission to Off-Site Emergency Response Centres
+KCH,Matériel de contrôle commande (déminéralisation),Instrumentation & Control Equipment - Water Treatment Plant
+KCL,Matériel de contrôle commande du noyau dur,Instrumentation & Control Equipment – Non Computerised Safety System
+KCM,Surveillance des matériels de contrôle commande de la salle des machines,Monitoring of Instrumentation & Control Equipment - Turbine Hall
+KCO,Matériels de contrôle commande centralisés (automate et traitement),Instrumentation & Control Equipment (Centralised - PLC and Automation)
+KCP,Matériels de contrôle commande (station de pompage),Instrumentation & Control Equipment - Cooling Water Pump House
+KCQ,Matériels de contrôle commande niveau 1 du bâtiment de traitement des effluents,Instrumentation & Control Equipment - Waste Treatment Building
+KCU,Surveillance des matériels de contrôle commande de la station de pompage,Monitoring of Instrumentation & Control Equipment - Cooling Water Pump House
+KDC,Diagnostic et configuration,Instrumentation & Control - Troubleshooting & Configuration
+KDO,Système d'acquisition de données,Instrumentation & Control - Data Acquisition System
+KDM,Système d'acquisition et de diagnostic pour la maintenance,System acquisition and maintenance Diagnostics
+KER,Contrôle et rejets des effluents de l'îlot nucléaire,Nuclear Island Waste Monitoring and Discharge System
+KG .,SYSTEME INFORMATIQUE DE GESTION,COMPUTERISED MANAGEMENT SYSTEM
+KGE,Système de gestion des effluents,Computerised Waste Management System
+KI .,SYSTEMES INFORMATIQUES DE CONDUITE (DE COMMANDE ET SURVEILLANCE),COMPUTERISED OPERATING SYSTEMS (FOR CONTROL AND MONITORING)
+KIC,Système informatique de conduite,Computerised Operating System
+KIL,Système de détection des fuites,Off-Site Interface System
+KIE,Interface avec l'extérieur,Leak Detection System
+KIR,Instrumentation de surveillance du circuit primaire,Loose Parts Monitoring System
+KK .,CONTROLE ACCES,ACCESS CONTROL
+KKD,Contrôle d’accès aux matériels sensibles,Secure Areas Access Control System
+KKK,Contrôle général des accès,General Access Control System
+KKO,Comptage de l'énergie et mesures associées ,Energy Metering System
+KKV,Surveillance vidéo de site,Site Security CCTV
+KKX,Contrôle d’accès aux divisions de sûreté,Safety Divisions Access Control System
+KL .,RESEAU INFORMATIQUE,COMPUTER NETWORK
+KLE,Réseau local d'entreprise,Corporate Network
+KLI,Réseau local industriel,Industrial Network
+KME,Acquisition de mesure pour essai périodique,Periodic Test Instrumentation System
+KOS,Oscilloperturbographie,Disturbance Recorder
+KPE,Tachyperturbographie,Fast Disturbance Recorder
+KR .,MESURE D'AMBIANCE,Environment Monitoring Systems
+KRA,Mesures séisme,Seismic Monitoring
+KRC,Contrôle de contamination corporelle et dosimétrique et d’irradiation des locaux,Contamination and Radiation Monitoring of Personnel and Rooms
+KRG,Régulation générale,General Environmental Regulation System
+KRH,Détection hydrogène îlot nucléaire,Nuclear Island Hydrogen Detection System
+KRS,Contrôle de pollution (radioprotection - météorologie – pollution),Off-Site Environmental Monitoring System 
+KRT,Mesure de santé ,Plant Radiation Monitoring System
+KS .,SALLE DE COMMANDE – STATION DE REPLI - ET PUPITRES,"CONTROL ROOM, REMOTE SHUTDOWN PANEL AND CONSOLES"
+KSC,Instrumentation salle de Commande,Main Control Room Instrumentation
+KSD,Système de surveillance et de diagnostic,Monitoring And Diagnostic System
+KSQ,Salle de commande du bâtiment de traitement des effluents,Active Waste Treatment Building Control Room
+KSU,Platine de sauvegarde et d'alerte,Safeguard And Alert Panel
+KT .,INSTRUMENTATION SPECIALE INDEPENDANTE,SPECIAL INDEPENDENT INSTRUMENTATION
+KTG,Auscultation table de groupe,Turbine Generator Foundation Testing
+KZ .,SYSTEME INFORMATIQUE DE SURVEILLANCE OU COMMANDE A DISTANCE,REMOTE MONITORING AND CONTROL SYSTEM
+KZC,Centre national de crise,Off-Site Emergency Support Centre
+KZR,Calculateur d'interface de tranche CASOAR,Plant Unit Interface Computer
+LA .,PRODUCTION ET DISTRIBUTION PUISSANCE 230 V CONTINU,220V DC UNINTERRUPTIBLE SUPPLY 
+LG .,"DISTRIBUTION > OU = A 5,5 kV ALTERNATIF (NON SECOURU)",10KV AC NORMAL SUPPLY
+LH .,"COURANT ALTERNATIF > ou = à 5,5 kV  SECOURU",10KV AC EMERGENCY SUPPLY
+LI .,DISTRIBUTION 690 V ALTERNATIF NORMAL,690V AC NORMAL SUPPLY
+LJ .,DISTRIBUTION 690 V ALTERNATIF SECOURU,690V AC EMERGENCY SUPPLY
+LK .,DISTRIBUTION 400 V ALTERNATIF NORMAL (sous tableau LG),400V AC NORMAL SUPPLY - FROM LG
+LL .,DISTRIBUTION 400 V ALTERNATIF SECOURU (sous tableau LH),EMERGENCY 400 V AC DISTRIBUTION (UNDER SWITCHBOARD LH)
+LO.,,400V AC REGULATED SUPPLY
+LS .,BOUCLES D'ESSAI,TEST LOOPS
+LSA,Boucle d’essai,Test loop
+LSI,Eclairage permanent de site,Site Outside Lighting System
+LTR,Circuit de terre,Station Earth System
+LV .,Production et distribution 400 V sans coupure,400V AC UNINTERRUPTIBLE SUPPLY
+LY .,CIRCUIT D'ESSAI,TEST CIRCUIT
+LYS,Circuit de puissance d'essai (décharge des batteries),Battery Test System
+PMA,Auxiliaires de manutention du combustible,Fuel Handling - Auxiliaries
+PMC,Manutention du combustible - Machine de chargement - Pont perche - Transfert,"Fuel Handling - Refuelling Machine, Spent Fuel Handling Machine, Transfer Systems"
+PMG,Machine à serrer et desserrer les goujons (MSDG),Multi Stud Tensioning Machine
+PMO,Outillage de manutention - Eclairage - Plate-forme bâtiment réacteur aspirateur,"Handling Tools, Lighting, Vacuum Platform"
+PTR,Traitement et refroidissement d'eau des piscines,Reactor Cavity and Spent Fuel Pond Cooling / Treatment System
+RBS,Borication de sécurité,Extra Boration System
+RCP,Circuit primaire,Reactor Coolant System
+RCV,Contrôle chimique et volumétrique,Chemical And Volume Control System
+REA,Appoint eau et bore,Reactor Boron and Water Make-Up System
+REN,Echantillonnage nucléaire,Nuclear Sampling System
+RES,Echantillonnage de la partie secondaire des générateurs de vapeur,Steam Generator Secondary Sampling System
+RGL,Commandes des grappes longues,"Core Control System (Reactivity, Tav, Axial Offset)"
+RIC,Instrumentation interne du cœur,In-Core Instrumentation Systems
+RIS,Injection de sécurité ,Safety Injection System
+RPE,"Purges, évents et exhaures nucléaires",Active Drain And Vents
+RPN,Mesure de la puissance nucléaire,Ex-Core Neutron Flux Detection
+RPR,Protection réacteur,Reactor Protection System
+RRI,Réfrigération intermédiaire,Component Cooling Water System - Nuclear Island
+RSC,Système de récupération du corium,Core Melt Stabilisation System
+SA .,PRODUCTION ET DISTRIBUTION D'AIR,Air Production and Distribution System
+SAA,Production air respirable,Breathable Air Production
+SAP,Production air comprimé de travail et de régulation,Air Compressors
+SAR,Distribution air comprimé de régulation,Instrument Air Distribution
+SAT,Distribution air comprimé de travail,General Service Air Distribution
+SB .,BLOC ENTRETIEN CHAUD,Active Laundry and Decontamination / Active Maintenance Unit
+SBE,Equipement du bloc entretien chaud du site y compris la laverie de site,Active Laundry and Decontamination Services
+SD .,EAU DEMINERALISEE (PRODUCTION - TRAITEMENT - DISTRIBUTION - STOCKAGE),"Demineralised Water Treatment, Distribution & Storage"
+SDA,Production d'eau déminéralisée,Demineralised Water Treatment Plant
+SDB,Traitement des boues de la déminéralisation,Demineralised Water Plant Sludge Treatment
+SDD,Distribution eau déminéralisée réacteur,Reactor Demineralised Water Distribution
+SDR,Distribution eau déminéralisée installation convention- nelle PH9 (stockage inclus),Conventional Island pH9 Demineralised Water Distribution and Storage
+SDS,Production d'eau déminéralisée par dessalement,Desalination Plant
+SE .,DISTRIBUTION ET TRAITEMENT DE L'EAU (SAUF EAU DEMINERALISEE),WATER DISTRIBUTION AND TREATMENT
+SEA,Eau à déminéraliser (prétraitement),Water Supply to Demineralised Water Treatment Plant
+SEB,Eau brute,Raw Water System
+SEC,Eau brute secourue (réfrigération intermédiaire RRI),Raw Water - Cooling for Nuclear Island (RRI)
+SED,Distribution eau déminéralisée réacteur,Nuclear Island Demineralised Water Distribution System
+SEF,Prise d'eau- filtration- dégrilleurs,Intake Coarse Filtration and Trash Removal System
+SEH,Recueil des huiles et des effluents hydrocarbonés (stockage inclus),Waste Oil and Inactive Water Drain System and Storage
+SEI,Eaux industrielles,Towns Water System
+SEK,"Recueil, contrôle et rejet des effluents du circuit secondaire",Conventional Island Liquid Waste Discharge System
+SEL,Distribution d’eau chaude produite électriquement,Electrically Heated Hot Water System
+SEN,Eau brute de réfrigération ,Raw Water - Cooling for Conventional Island (SRI)
+SEO,Eaux perdues à l'égout,Plant Sewer and Drains System
+SEP,Eau potable,Potable Water System
+SER,Distribution eau déminéralisée installation conventionnelle PH9 (stockage inclus),pH9 Demineralised Water for Conventional Island - Distribution and Storage
+SEU,Eau pluviale (collecte),Rainwater Drainage System
+SEZ,Nappe phréatique (rabattement) - piézomètres,Ground Water Sampling & Monitoring System
+SF .,FILTRATION,FILTRATION
+SFI,Filtration eau brute,Raw Water Filtration (Riverside site)
+SG .,DISTRIBUTION FLUIDE AUTRE QUE EAU ET AIR,FLUID DISTRIBUTION OTHER THAN WATER OR AIR
+SGA,Distribution argon,Argon Distribution System
+SGC,Distribution gaz carbonique,Carbon Dioxide Distribution System
+SGH,Distribution d'hydrogène,Hydrogen Distribution System
+SGL,Distribution d'huile,Oil Distribution System
+SGN,distribution d'azote,Nitrogen Distribution System
+SGO,distribution d'oxygène,Oxygen Distribution System
+SGZ,Distribution gaz partie îlot conventionnel,Other Gases Distribution System - Conventional Island
+SI .,"CHIMIE, REACTIFS ET TRAITEMENTS","CHEMISTRY, REAGENTS AND TREATMENTS"
+SIR,Conditionnement chimique (injection réactif),Chemical Conditioning System (Reagents Injection)
+SIT,Contrôle chimique (échantillonnage),Feedwater Chemical Sampling System
+SK .,STOCKAGE FLUIDES AUTRES QUE EAU ET AIR,STORAGE OF FLUIDS OTHER THAN WATER AND AIR
+SKL,Stockage huile,Oil Storage System
+SKR,Remplissage-vidange huile moteur des pompes primaires,Reactor Coolant Pump Motor - Oil Filling and Draining
+SKZ,"Stockage des gaz (H2, O2, N2, CO2 et gaz rares)",Gas Storage (All)
+SN .,TRAITEMENT PAR LE VIDE NETTOYAGE,VACUUM CLEANING
+SNL,Nettoyage – lançage GV,Steam Generator Lancing
+SR .,REFRIGERATION,COOLING
+SRI,Réfrigération intermédiaire - circuits conventionnels (NORIA),Conventional Island Closed Cooling Water System
+SRU,Réfrigération ultime,Ultimate Cooling Water System
+SSF, Stockage en fûts,Storage drums
+ST .,TRACAGE,TRACE HEATING
+STE,Traçage électrique,Trace Heating - Non Nuclear Systems
+STF,Traçage électrique (circuits nucléaires),Trace Heating - Nuclear Systems
+SV .,VAPEUR AUXILIAIRE,AUXILIARY STEAM
+SVA,Distribution de vapeur auxiliaire,Auxiliary Steam System
+TEG,Effluents gazeux,Gaseous Waste Treatment System
+TEK,Contrôle et rejet des effluents de l’îlot nucléaire,Nuclear Island Effluent Control and Discharge
+TEN,Circuits d'échantillonnage des effluents du bâtiment de traitement des effluents,Effluent Treatment Building Sampling System
+TEP,Effluents liquides primaires,Reactor Coolant Storage and Treatment System
+TER,Réservoir complémentaire de santé,Liquid Radwaste Discharge System
+TES,Effluents solides,Solid Radwaste Treatment System
+TEU,Effluents liquides usés,Liquid Radwaste Treatment System
+TRI,Réfrigération intermédiaire traitement des effluents,"Component Cooling Water System, Waste Treatment System"
+TSF,Traitement du combustible usé,Treatment Spent Fuel 
+VDA,Décharge atmosphère,Atmospheric Steam Dump
+VPU,Purges de conditionnement des circuits vapeur,Steam Line and Drains (Downstream of MSIVs)
+VVP,"Circuit vapeur principal, soupapes de mise à l'atmosphère et évents, vannes GV",Main Steam System (Upstream of MSIVs)
+YBM,Bras mort (instrumentation provisoire sur les tronçons inter isolements),Dead Leg Monitoring
+YGV,Dispositif d'instrumentation générateur de vapeur,Steam Generator Instrumentation System
+YLV,Système de mesure temporaire,Temporary Measurement System

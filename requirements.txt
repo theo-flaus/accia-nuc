@@ -1,0 +1,8 @@
+streamlit
+transformers[torch]
+sentencepiece
+pymupdf
+pymongo
+streamlit-chat
+six==1.12.0
+
