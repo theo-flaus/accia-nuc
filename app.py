@@ -24,10 +24,10 @@ def load_data(file_name):
     path = f'data\{file_name}'
     return pd.read_csv(path)
 
-@st.cache(allow_output_mutation=True)
+@st.cache(allow_output_mutation=True, hash_funcs={"_thread.RLock": lambda _: None, "builtins.weakref": lambda _: None})
 def connect_mongo_db():
     try:
-        cluster = MongoClient("mongodb+srv://accia_nuc:cxapJk82Zb4GZmdP@cluster0.mhmhq61.mongodb.net/?retryWrites=true&w=majority", tlsCAFile=ca)
+        cluster = MongoClient(f"mongodb+srv://{st.secrets['db_name']}:{st.secrets['db_password']}@cluster0.mhmhq61.mongodb.net/?retryWrites=true&w=majority", tlsCAFile=ca)
         print("MOngo DB connected")
         db = cluster["accia"]
         return db
