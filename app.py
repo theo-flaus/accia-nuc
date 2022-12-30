@@ -20,7 +20,7 @@ from Answer.pymu_extract import PyMuExtract
 import nltk
 try:
     nltk.find('stopwords')
-except:
+except LookupError:
     nltk.download('stopwords')
 
 st.set_page_config(layout="wide", page_title='ACCIA Bot')
